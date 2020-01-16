@@ -25,7 +25,7 @@ router.post('/login', async (req, res) => {
     });
   }
 
-  if (name === 'admin' && sessionCode === 'xiaoxingxing') {
+  if (name === 'admin' && sessionCode === process.env.ADMIN_PASSWORD) {
     return res.status(200).json({
       message: '',
     });
