@@ -1,0 +1,16 @@
+.Start {
+  padding: 20px;
+  text-align: center;
+  width: 100%;
+  max-width: 500px;
+}
+
+.Start header {
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.Start-Button {
+  width: 100%;
+}
+

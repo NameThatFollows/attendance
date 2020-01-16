@@ -1,0 +1,61 @@
+.Admin {
+  padding: 20px;
+  text-align: center;
+  width: 100%;
+  max-width: 840px;
+}
+
+.Admin section {
+  margin-bottom: 20px;
+}
+
+.Admin table {
+  margin: 0 auto;
+}
+
+.Admin table tr th {
+  padding: 5px 20px;
+}
+
+.Admin table tr td {
+  padding: 2px 20px;
+}
+
+.Admin .Admin-Buttons {
+  margin-top: 20px;
+}
+
+.Admin-Button {
+  width: 100%;
+  margin: 5px 0;
+}
+
+.Admin .Admin-Form {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Admin .Admin-Upload {
+  width: 100%;
+  margin-right: 10px;
+}
+
+.Admin .Admin-Upload-Button {
+  flex-shrink: 0;
+  justify-self: right;
+}
+
+.Admin-NameCategory {
+  padding-bottom: 20px;
+}
+
+.Admin-Nameset {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Admin-Name {
+  margin: 0;
+  padding: 0px 20px 0px 0px;
+}
