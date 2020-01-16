@@ -1,3 +1,5 @@
+CREATE DATABASE attendance;
+
 CREATE TABLE students (
   id INT NOT NULL,
   firstname VARCHAR(64) NOT NULL,
